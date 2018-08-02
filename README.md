@@ -5,4 +5,5 @@ This dataset is a classification problem, lets check which algorithm suits this 
 
 - Knn
 -Kernel SVM
-
+-Decision Trees
+-Random Forest
